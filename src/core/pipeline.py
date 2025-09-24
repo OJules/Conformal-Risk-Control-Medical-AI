@@ -1,7 +1,3 @@
-"""
-Pipeline optimisé basé sur votre code original.
-Fichier 1 de 3 - Pipeline principal
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import ndimage
